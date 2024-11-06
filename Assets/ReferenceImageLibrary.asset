@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4798264543733372442
+  m_GuidHigh: 7793494143118975911
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4764299921391464457
+      m_GuidHigh: 8124472750918598276
+    m_SerializedTextureGuid:
+      m_GuidLow: 18263284160063428894
+      m_GuidHigh: 9593956909237819003
+    m_Size: {x: 0.11, y: 0.0616}
+    m_SpecifySize: 1
+    m_Name: lion
+    m_Texture: {fileID: 0}
